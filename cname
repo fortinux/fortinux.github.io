@@ -1,1 +1,4 @@
-fortinux.tk
+;www.fortinux.tk.		IN	A
+www.fortinux.tk.	35	IN	CNAME	fortinux.tk.
+fortinux.tk.		35	IN	A	72.8.190.39
+fortinux.tk.		35	IN	A	93.170.52.34
