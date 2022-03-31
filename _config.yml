@@ -1,3 +1,5 @@
 name: Welcome to Fortinux
 markdown: redcarpet
 pygments: true
+
+theme: jekyll-theme-minimal
